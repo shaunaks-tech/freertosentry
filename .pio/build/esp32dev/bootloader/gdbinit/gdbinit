@@ -1,0 +1,2 @@
+source /Users/shaunak/dev/projects/freertosentry/.pio/build/esp32dev/bootloader/gdbinit/symbols
+source /Users/shaunak/dev/projects/freertosentry/.pio/build/esp32dev/bootloader/gdbinit/connect

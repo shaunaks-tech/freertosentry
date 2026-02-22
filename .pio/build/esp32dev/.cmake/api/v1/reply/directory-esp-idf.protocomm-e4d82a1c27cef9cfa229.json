@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "esp-idf/protocomm",
+		"source" : "/Users/shaunak/.platformio/packages/framework-espidf/components/protocomm"
+	}
+}
